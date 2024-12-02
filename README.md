@@ -2,6 +2,10 @@
 
 ### FEATURES
 
+**Built-in Macro**
+- Easy to use in-built macros
+- Automatically beat the stage, retry, and everything else!
+
 **Card Picker**
 - Automatically picks the first card based on your preference
 - Automatically picks additive cards with a customizable priority
@@ -13,6 +17,6 @@
 
 **Discord Webhooks**
 - Insert your webhook URL and optionally your user ID to be pinged
-- Sends an image every time you finish a stage 
-- Works for every gamemode, not just the new dungeon (you can use it while tinytasking any other gamemode if you have this on)
+- Sends an image of your rewards every time you finish a stage 
+- Works for every gamemode, not just the new dungeon (you can use it while doing any other gamemode if you have this on)
 
